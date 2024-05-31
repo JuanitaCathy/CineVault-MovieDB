@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { fetchDataFromApi } from "./utils/api";
-
+import { ShepherdJourneyProvider } from 'react-shepherd';
 import { useSelector, useDispatch } from "react-redux";
 import { getApiConfiguration, getGenres } from "./store/homeSlice";
 
@@ -57,15 +57,17 @@ function App() {
 
     return (
         <BrowserRouter>
-            <Header />
-            <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/:mediaType/:id" element={<Details />} />
-                <Route path="/search/:query" element={<SearchResult />} />
-                <Route path="/explore/:mediaType" element={<Explore />} />
-                <Route path="*" element={<PageNotFound />} />
-            </Routes>
-            <Footer />
+           <ShepherdJourneyProvider>
+                <Header />
+                <Routes>
+                    <Route path="/" element={<Home />} />
+                    <Route path="/:mediaType/:id" element={<Details />} />
+                    <Route path="/search/:query" element={<SearchResult />} />
+                    <Route path="/explore/:mediaType" element={<Explore />} />
+                    <Route path="*" element={<PageNotFound />} />
+                </Routes>
+                <Footer />
+            </ShepherdJourneyProvider>
         </BrowserRouter>
     );
 }

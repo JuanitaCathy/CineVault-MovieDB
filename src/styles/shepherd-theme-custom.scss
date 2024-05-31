@@ -1,0 +1,79 @@
+.shepherd-theme-custom {
+  background-color: rgba(15, 14, 14, 0.8); 
+  color: rgb(222, 144, 179);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1;
+
+
+  .shepherd-button {
+    background-color: #f03e5c; 
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+    &:hover {
+      background-color: #ed6498; 
+    }
+  }
+
+  .shepherd-element {
+    max-width: 400px; 
+    padding: 20px;
+    background-color: #1a1a1a; 
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.4); 
+    border-radius: 8px;
+    color: #ecdddd; 
+    font-size: 16px;
+    line-height: 1.5;
+    z-index: 10001;
+
+    .shepherd-header {
+      border-bottom: 1px solid #333; 
+      margin-bottom: 10px;
+      padding-bottom: 10px;
+      font-weight: bold;
+      text-align: center; 
+    }
+
+    .shepherd-text {
+      margin-bottom: 15px;
+    }
+
+    .shepherd-buttons {
+      text-align: right;
+    }
+  }
+
+  .shepherd-arrow {
+    color: #1a1a1a; /* Match background */
+  }
+
+  .shepherd-modal {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+
+  // Positioning and visibility adjustments
+  .shepherd-element {
+    position: absolute; /* Absolute positioning for flexibility */
+    top: 20%; /* Adjust as per your layout */
+    left: 10%; /* Adjust as per your layout */
+  }
+
+  // Back and Next buttons positioning
+  .shepherd-buttons .shepherd-button {
+    margin-left: 10px; /* Add space between buttons */
+  }
+
+  // Ensure welcome box is centered on the first screen
+  .shepherd-element[data-id='step-0'] {
+    left: 50%; /* Center horizontally */
+    top: 50%; /* Center vertically */
+    transform: translate(-50%, -50%);
+  }
+}
+
