@@ -35,14 +35,24 @@ Shepherd.js is used in CineVault to provide an interactive, step-by-step guide f
 7. **Related Videos and Similar Movies**: Highlights the sections for related videos and similar movie recommendations.
 8. **Navigation to Movies and TV Shows Sections**: Guides the user to navigate between the Movies and TV Shows sections.
 
+## 🎥 Video
+
+_Add a link to a video demo of CineVault here._
+
 ### 🌟 Major Features
 
 - **Search Functionality 🔍**: Search for your favorite movies or TV shows by title, genre, or actor.
 - **Trending Content 📈**: Stay updated with the hottest content, both weekly and daily.
+- **Lazy Load**: For optimization purposes, Lazy Load effect is used on movie images
 - **Detailed Movie Information 🎬**: Get comprehensive details about movies, including ratings, cast information, and trailers.
 - **Personalized Recommendations 🤩**: Find similar movies and shows based on your preferences.
 - **Infinite Scroll 📜**: Seamlessly scroll through an extensive list of movies and TV shows without any interruption.
 - **Genre and Popularity Filters 🎭**: Easily filter movies and TV shows by genre and popularity to find exactly what you're looking for.
+
+## 📸 Screenshots
+
+_Add screenshots here to showcase the CineVault interface and features._
+
 
 ### 🌟 Technologies Used
 
@@ -88,14 +98,6 @@ To start using CineVault, follow these steps:
 4. **View Details**: Click on a movie or TV show card to view detailed information, including ratings and trailers.
 5. **Navigate Sections**: Use the navigation menu to switch between Movies and TV Shows sections.
 6. **Apply Filters**: Use the filters to narrow down your search results by genre and popularity.
-
-## 📸 Screenshots
-
-_Add screenshots here to showcase the CineVault interface and features._
-
-## 🎥 Video
-
-_Add a link to a video demo of CineVault here._
 
 ## 🤝 Contributing
 
