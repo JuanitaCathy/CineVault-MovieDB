@@ -182,27 +182,6 @@ const ShepherdTour = () => {
           }
         ]
       },
-
-    // Movie Details - Similar Movies
-      {
-        id: "similar-movies-step",
-        text: "<strong>🎬 Similar Movies!<br></strong> Find more movies and shows to binge-watch in the similar section. 🍿✨",
-        attachTo: {
-          element: ".carouselItems",
-          on: "bottom"
-        },
-        scrollTo: true,
-        buttons: [
-          {
-            text: "Back",
-            action: tour.back
-          },
-          {
-            text: "Next",
-            action: tour.next
-          }
-        ]
-      },
       {
         id: "movies-nav-step",
         text: "<strong>🎥 Movies Section!<br></strong> Navigate to the Movies section to search for more movies.",
