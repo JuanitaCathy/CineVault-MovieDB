@@ -37,9 +37,11 @@ Shepherd.js is used in CineVault to provide an interactive, step-by-step guide f
 
 ## 🎥 Video
 
-_Add a link to a video demo of CineVault here._
+https://github.com/JuanitaCathy/CineVault-Application/assets/114871036/a15a37f9-9352-4e22-8950-ec9da23fae23
 
-### 🌟 Major Features
+
+
+## 🌟 Major Features
 
 - **Search Functionality 🔍**: Search for your favorite movies or TV shows by title, genre, or actor.
 - **Trending Content 📈**: Stay updated with the hottest content, both weekly and daily.
@@ -49,9 +51,14 @@ _Add a link to a video demo of CineVault here._
 - **Infinite Scroll 📜**: Seamlessly scroll through an extensive list of movies and TV shows without any interruption.
 - **Genre and Popularity Filters 🎭**: Easily filter movies and TV shows by genre and popularity to find exactly what you're looking for.
 
-## 📸 Screenshots
+## 📺 Screenshots! 
 
-_Add screenshots here to showcase the CineVault interface and features._
+## Few sample images are attached below 📖: 
+![image](https://github.com/JuanitaCathy/CineVault-Application/assets/114871036/cd08b2b1-9b57-4ee9-ab69-1eabb65fa85a)
+![image](https://github.com/JuanitaCathy/CineVault-Application/assets/114871036/846752c9-39f1-4222-af69-fdf52a46fa37)
+![image](https://github.com/JuanitaCathy/CineVault-Application/assets/114871036/a2757f3d-4170-4215-9c1f-e942615ef133)
+![image](https://github.com/JuanitaCathy/CineVault-Application/assets/114871036/b0d1f7f9-6dc0-42b0-8591-35177e8cc42d)
+![image](https://github.com/JuanitaCathy/CineVault-Application/assets/114871036/34f6a3cd-9122-4cdc-bd2d-8cfe311f70b2)
 
 
 ### 🌟 Technologies Used
