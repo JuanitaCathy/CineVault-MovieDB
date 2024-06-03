@@ -54,7 +54,8 @@ https://github.com/JuanitaCathy/CineVault-Application/assets/114871036/a15a37f9-
 ## 📺 Screenshots! 
 
 ## Few sample images are attached below 📖: 
-![image](https://github.com/JuanitaCathy/CineVault-Application/assets/114871036/cd08b2b1-9b57-4ee9-ab69-1eabb65fa85a)
+- **Hover effect** over the tour box :)
+![image](https://github.com/JuanitaCathy/CineVault-MovieDB/assets/114871036/3cc30d12-5c31-40ec-ae49-e388c42a52e4)
 ![image](https://github.com/JuanitaCathy/CineVault-Application/assets/114871036/846752c9-39f1-4222-af69-fdf52a46fa37)
 ![image](https://github.com/JuanitaCathy/CineVault-Application/assets/114871036/a2757f3d-4170-4215-9c1f-e942615ef133)
 ![image](https://github.com/JuanitaCathy/CineVault-Application/assets/114871036/b0d1f7f9-6dc0-42b0-8591-35177e8cc42d)
