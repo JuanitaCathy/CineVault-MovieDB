@@ -1,6 +1,7 @@
-# 🎬 CineVault 📺
+# 🎬 CineVault : Discover binge-worthy movies and TV shows!🍿✨
 
-Welcome to **CineVault** - your ultimate destination for discovering and binge-watching your favorite movies and TV shows! 🍿✨
+Welcome to **CineVault** - your ultimate destination for discovering and binge-watching your favorite movies and TV shows-based on genres, ratings and more, all
+in one place! 🍿✨
 
 ## 📜 Table of Contents
 
